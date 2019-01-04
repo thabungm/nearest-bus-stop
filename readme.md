@@ -14,4 +14,4 @@
 ![Alt text](create-bus.png)
 ![Alt text](validation.png)
 ![Alt text](bus-list.png)
-![Alt text](bus-list.png)
+![Alt text](neatest-bus-stops.png)
