@@ -8,23 +8,10 @@
     - Edit Bus
     - Get nearest bus-stops
     - View buses in a bus stop
-    - Switch my location (hardcoded)
+    - Switch my location (hardcoded) by clicking buttons
 
 ### Snapshots
-
-[Create Bus](https://github.com/thabungm/nearest-bus-stop/blob/master/bus-list.png)
-
-Create Bus Form Screen Shot
-
-[Validation](https://github.com/thabungm/nearest-bus-stop/blob/master/validation.png)
-
-Create Bus Form Validation
-
-[Bus List](https://github.com/thabungm/nearest-bus-stop/blob/master/bus-list.png)
-
-List of Buses Screen Shot
-
-
-[Nearest Bus](https://github.com/thabungm/nearest-bus-stop/blob/master/neatest-bus-stops.png)
-
-List of nearest bus stops
+![Alt text](create-bus.png)
+![Alt text](validation.png)
+![Alt text](bus-list.png)
+![Alt text](bus-list.png)
